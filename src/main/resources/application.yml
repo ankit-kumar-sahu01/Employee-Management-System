@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: String url="jdbc:mysql://aisptemp.mysql.database.azure.com:3306/{aisptemp}?useSSL=true";
+    username: Amiya@aisptemp
+    password: Airdit@2025
